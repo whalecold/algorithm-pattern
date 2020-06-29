@@ -18,8 +18,8 @@
 
 ### 入门篇 🐶
 
-- [go 语言入门](https://github.com/greyireland/algorithm-pattern/blob/master/introduction/golang.md)
-- [算法快速入门](https://github.com/greyireland/algorithm-pattern/blob/master/introduction/quickstart.md)
+- [go 语言入门](./introduction/golang.md)
+- [算法快速入门](./introduction/quickstart.md)
 
 ### 数据结构篇 🐰
 
